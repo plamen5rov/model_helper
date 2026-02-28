@@ -1,4 +1,4 @@
 # Dad Joke
 
-Create a Dad Joke about $topic
+Create a Dad Joke about $arguments
 
